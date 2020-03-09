@@ -1,2 +1,2 @@
 # linux-study
-a project for studying linux st
+# a project for studying linux system
